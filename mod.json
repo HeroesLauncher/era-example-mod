@@ -1,0 +1,43 @@
+{
+	"caption": {
+		"Cn_Simp": "示例模组",
+		"en_US": "Example Mod",
+		"ru_RU": "Пример Мода"
+	},
+	
+	"description": {
+		"full": {
+			"Cn_Simp": "Readme-cn.md",
+			"en_US": "Readme.md",
+			"ru_RU": "Readme-ru.md"
+		},
+		"short": {
+			"Cn_Simp": "",
+			"en_US": "",
+			"ru_RU": ""
+		}
+	},
+	
+	"author": "Name(s)",
+	
+	"homepage": "",
+	
+	"icon": {
+		"file": "icon.png",
+		"index": 0
+	},
+	
+	"mod_version": "0.0",
+	
+	"priority": 0,
+	
+	"compatibility": {
+		"class": "all",
+		"entries": {}
+	},
+	
+	"platform": "era",
+	"info_version": "",
+	"plugins": {},
+	"category": "gameplay"
+}
