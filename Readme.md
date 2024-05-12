@@ -9,3 +9,5 @@ The mod icon can be in formats other than .ico, such as png/jpg/bmp. But in this
 
 **Important!**
 File names in mod.json must be specified with case sensitivity.
+
+To keep the mod working correctly, it is highly recommended to add this [.gitattributes](https://github.com/HeroesLauncher/era-example-mod/blob/main/.gitattributes) file to the root directory of your mod repository.
