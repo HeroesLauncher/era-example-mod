@@ -1,4 +1,4 @@
-# Auto detect text files and perform LF normalization
+# Declare files that will always have CRLF line endings on checkout.
 * text eol=crlf
 
 .gitignore export-ignore
