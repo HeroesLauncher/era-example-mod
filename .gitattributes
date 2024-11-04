@@ -1,6 +1,5 @@
 # Auto detect text files and perform LF normalization
-* text=false
-
+text eol=crlf
 
 .gitignore export-ignore
 .gitattributes export-ignore
